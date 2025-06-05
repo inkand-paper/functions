@@ -1,0 +1,12 @@
+| Concept                    | Keyword           | Easy Meaning                           | Use Case                       |
+| -------------------------- | ----------------- | -------------------------------------- | ------------------------------ |
+| Basic Function             | fun             | A named block of code                  | Reuse logic                    |
+| Single Expression          | fun =           | Shortcut for 1-line functions          | Cleaner code                   |
+| Default Arguments          | = in param      | If nothing is passed, use this default | Optional inputs                |
+| Named Arguments            | name = val      | Call by names, not order               | Better clarity                 |
+| Vararg                     | vararg          | Accept multiple values                 | Flexible inputs                |
+| Lambda                     | {}              | Mini unnamed function                  | Simple one-time tasks          |
+| Higher-Order Function      | (x) -> y        | Function that takes another function   | Custom behavior                |
+| Extension Function         | fun Type.name() | Add new tricks to existing types       | Cleaner & smarter code         |
+| Inline Function (Optional) | inline          | Compiler puts code directly            | Performance tricks             |
+| Unit Return                | : Unit          | Function returns nothing               | Just does work (like printing) |
